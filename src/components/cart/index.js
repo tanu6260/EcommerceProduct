@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
   textbox: {
     width: SIZES.width * 0.6,
     paddingHorizontal: SIZES.width * 0.02,
-    borderWidth: 1,
+    // borderWidth: 1,
   },
   title: {
     fontSize: SIZES.width * 0.035,
